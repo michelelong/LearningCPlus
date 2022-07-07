@@ -1,0 +1,3 @@
+g++ -c dayTypeMain.cpp
+g++ -c dayType.cpp
+g++ dayTypeMain.o dayType.o -o dayType
